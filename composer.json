@@ -1,0 +1,32 @@
+{
+	"name" : "bot/titan",
+	"description" : "Bot to increase email limit",
+	"require" : {
+		"symfony/dom-crawler" : "^5.4.6",
+		"guzzlehttp/guzzle" : "^7.4",
+		"phpv8/v8js-stubs": "dev-php7"
+	},
+	"keywords" : [
+		"bot",
+		"Titan"
+	],
+	"authors" : [{
+			"name" : "Antonio Augusto"
+		}
+	],
+	"minimum-stability" : "dev",
+	"autoload" : {
+		"psr-4" : {
+			"Bot\\Titan\\" : "src/"
+		}
+	},
+	"autoload-dev" : {
+		"psr-4" : {
+			"Bot\\Titan\\Test\\" : "test/"
+		}
+	},
+	"optimize-autoloader" : true,
+	"require-dev" : {
+		"dbrekelmans/bdi" : "dev-main"
+	}
+}

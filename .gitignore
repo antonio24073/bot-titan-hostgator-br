@@ -1,0 +1,13 @@
+.buildpath
+.project
+.project
+.settings
+vendor/
+documents/*
+drafts/
+temp/*
+*/**/.ptp-sync-folder
+.ptp-sync-folder
+.ptp-sync
+composer.phar
+composer.lock
