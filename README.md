@@ -1,10 +1,10 @@
 #  NÃO FUNCIONA MAIS - SOMENTE PORTFÓLIO
 
-Esse bot é somente para portfólio. Ele habilitava envio de emails em massa pelo titan da Hostgator Brasil. Não que eu seja favorável a esse tipo de projeto mas, pelo bom senso, não iria fazer mal algum para a hostgator a quantidade de emails da pessoa que contratou. Porém não funciona mais, nem adianta tentar restaurar.
+Esse bot é somente para portfólio. Ele habilitava envio de emails em massa pelo titan da Hostgator Brasil. Não que eu seja favorável a esse tipo de projeto mas, pelo bom senso, não iria fazer mal algum para a hostgator a quantidade de emails da pessoa que contratou. O objetivo não era mandar spam mas sim automatização de tarefas. Porém não funciona mais, nem adianta tentar restaurar.
 
 # NO LONGER WORKS - PORTFOLIO ONLY
 
-This bot is for portfolio only. It enabled the sending of mass emails by the titan of Hostgator Brasil. Not that I'm in favor of this type of project but, by common sense, it wouldn't do any harm to hostgator the amount of emails from the person they hired. But it doesn't work anymore, there's no use trying to restore.
+This bot is for portfolio only. It enabled the sending of mass emails by the titan of Hostgator Brasil. Not that I'm in favor of this type of project but, by common sense, it wouldn't do any harm to hostgator the amount of emails from the person they hired. The goal was not to send spam but to automate tasks. But it doesn't work anymore, there's no use trying to restore.
 
 
 ## Pre-requisites
